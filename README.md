@@ -13,3 +13,4 @@ YOLO models of different scales to carry out comparative experiments to test mod
 different scales in different weather and different lighting conditions. The robustness and
 comprehensive performance under the condition are drawn, and the conclusions of the YOLO
 model in different practical application scenarios are drawn.
+Key words: Deep Learning, Video Detection Technology, YOLO Algorithm, Vehicle Detection
